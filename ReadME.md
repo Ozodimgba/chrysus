@@ -1,5 +1,5 @@
 # Chrysus Protocol
-> Bitcoin-backed SOON rollup security leveraging Zeus Network's permissionless infrastructure
+> Bitcoin-restaking for SOON rollup security leveraging Zeus Network's permissionless infrastructure
 
 ## Overview
 
